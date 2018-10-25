@@ -1,0 +1,33 @@
+INFO:root:cpu numbers:8
+INFO:root:command name:./c
+INFO:root:parameter numbers:2
+INFO:root:range: -32.0~32.0
+INFO:root:range: -32.0~32.0
+INFO:root:start time at:Sat Dec 16 21:08:35 2017
+INFO:root:temprature start drop at:Sat Dec 16 21:08:44 2017
+INFO:root:program stop at:Sat Dec 16 21:10:08 2017
+INFO:root:accuracy:0.0001,0.0001
+INFO:root:core order:0
+INFO:root:final position:-9.6269668443e-06,1.62765451771e-05
+INFO:root:final energy: 5.34906e-05
+INFO:root:core order:1
+INFO:root:final position:-6.92707583174e-05,6.27921224759e-05
+INFO:root:final energy: 0.000264537
+INFO:root:core order:2
+INFO:root:final position:-4.93233769378e-05,-1.33568267236e-05
+INFO:root:final energy: 0.00014456
+INFO:root:core order:3
+INFO:root:final position:-2.80000223899e-05,2.6446154199e-05
+INFO:root:final energy: 0.000108953
+INFO:root:core order:4
+INFO:root:final position:-1.34630409456e-05,1.14695734773e-05
+INFO:root:final energy: 5.00277e-05
+INFO:root:core order:5
+INFO:root:final position:-3.88412611372e-05,-4.71610234689e-05
+INFO:root:final energy: 0.000172847
+INFO:root:core order:6
+INFO:root:final position:-6.91711250932e-05,5.07594482084e-05
+INFO:root:final energy: 0.00024275
+INFO:root:core order:7
+INFO:root:final position:-0.000103504704175,-1.16153433659e-05
+INFO:root:final energy: 0.000294709
